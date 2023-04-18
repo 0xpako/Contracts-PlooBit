@@ -1,1 +1,1 @@
-# ploo-token
+# Ploo-BEP20
