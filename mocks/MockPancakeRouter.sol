@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.6.6;
 
-import './libraries/SafeMath.sol';
-import './libraries/Math.sol';
+import "./libraries/SafeMath.sol";
+import "./libraries/Math.sol";
 
 contract MockPancakeRouter {
   using SafeMath for uint256;
