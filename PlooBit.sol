@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2023-04-25
+ *Submitted for verification at BscScan.com on 2023-04-25
 */
 
 pragma solidity 0.5.16;
